@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/metorial/cli/releases/download/v0.1.1/metorial_0.1.1_windows_amd64.zip",
+            "bin": [
+                "metorial.exe"
+            ],
+            "hash": "fc8b0c4bf4cef87557e6df5b43cfa0abc0aac613f7fbd1157045f500e3b88f7a"
+        },
+        "arm64": {
+            "url": "https://github.com/metorial/cli/releases/download/v0.1.1/metorial_0.1.1_windows_arm64.zip",
+            "bin": [
+                "metorial.exe"
+            ],
+            "hash": "10054e9f0193ef98c9671698ea34c8b4b107c43689742502d83579a9ca0dbee9"
+        }
+    },
+    "homepage": "https://metorial.com",
+    "license": "MIT",
+    "description": "Official CLI for the Metorial platform"
+}
