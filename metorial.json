@@ -1,22 +1,22 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/metorial/cli/releases/download/v0.1.1/metorial_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/metorial/cli/releases/download/v0.1.2/metorial_0.1.2_windows_amd64.zip",
             "bin": [
                 "metorial.exe"
             ],
-            "hash": "fc8b0c4bf4cef87557e6df5b43cfa0abc0aac613f7fbd1157045f500e3b88f7a"
+            "hash": "eeb944146754d6d074fbf04b1821de77378575253571572fc017943e0e182d40"
         },
         "arm64": {
-            "url": "https://github.com/metorial/cli/releases/download/v0.1.1/metorial_0.1.1_windows_arm64.zip",
+            "url": "https://github.com/metorial/cli/releases/download/v0.1.2/metorial_0.1.2_windows_arm64.zip",
             "bin": [
                 "metorial.exe"
             ],
-            "hash": "10054e9f0193ef98c9671698ea34c8b4b107c43689742502d83579a9ca0dbee9"
+            "hash": "45942b49c2df23b6bc813f5d711464f5610d57c7b48789d20d9898e645ea3dc5"
         }
     },
     "homepage": "https://metorial.com",
     "license": "MIT",
-    "description": "Official CLI for the Metorial platform"
+    "description": "Official CLI for Metorial integrations and MCP tools"
 }
