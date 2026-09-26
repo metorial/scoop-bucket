@@ -1,0 +1,22 @@
+{
+    "version": "0.1.4",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/metorial/cli/releases/download/v0.1.4/metorial-admin_0.1.4_windows_amd64.zip",
+            "bin": [
+                "metorial-admin.exe"
+            ],
+            "hash": "148d1cecd59ffad521299c7f88e26b6cba70d54657dab5b4deea6f2f127e2ed2"
+        },
+        "arm64": {
+            "url": "https://github.com/metorial/cli/releases/download/v0.1.4/metorial-admin_0.1.4_windows_arm64.zip",
+            "bin": [
+                "metorial-admin.exe"
+            ],
+            "hash": "874c25b4c51cd00bef00af58deea9a9a639e514b197823854f9ea73b6c77c809"
+        }
+    },
+    "homepage": "https://metorial.com",
+    "license": "MIT",
+    "description": "Official admin CLI for the Metorial Magnetar API"
+}
