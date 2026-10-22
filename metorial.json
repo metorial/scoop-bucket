@@ -1,19 +1,19 @@
 {
-    "version": "0.1.4",
+    "version": "0.1.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/metorial/cli/releases/download/v0.1.4/metorial_0.1.4_windows_amd64.zip",
+            "url": "https://github.com/metorial/cli/releases/download/v0.1.8/metorial_0.1.8_windows_amd64.zip",
             "bin": [
                 "metorial.exe"
             ],
-            "hash": "fc88dfe8c13fc78d975bf5279c50ca72e2e8ec17ba4293747a489dd1bb39fda8"
+            "hash": "20dcb0394a4908a4e2d1e177d89b77461253007d99c6a2d730b49a0a032bd0ff"
         },
         "arm64": {
-            "url": "https://github.com/metorial/cli/releases/download/v0.1.4/metorial_0.1.4_windows_arm64.zip",
+            "url": "https://github.com/metorial/cli/releases/download/v0.1.8/metorial_0.1.8_windows_arm64.zip",
             "bin": [
                 "metorial.exe"
             ],
-            "hash": "bb775f5dd49ae331f0a23c51d4e1bf5a4e40f868fcc401d2d137fc6fd8527be9"
+            "hash": "0754fcc93ba8646353a32ff5bef940f56e9e0a46465bedbeb2072dfd42eccdf6"
         }
     },
     "homepage": "https://metorial.com",
